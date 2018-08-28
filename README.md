@@ -2,8 +2,8 @@
 
 Personal dashboards using GrimoireLab
 
-[Github Issues](github-issues.png)
-[Github Pull Requests](github-pr.png) 
+* [Github Issues](github-issues.png)
+* [Github Pull Requests](github-pr.png) 
 
 
 ## Usage
